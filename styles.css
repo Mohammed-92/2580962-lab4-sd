@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(153, 221, 144) 0%, rgb(239, 239, 243) 35%, rgba(0,212,255,1) 100%);
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+#country-info, #bordering-countries {
+    padding: 10px;
+    border: 1px solid #f5f2f2;
+    border-radius: 5px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}
